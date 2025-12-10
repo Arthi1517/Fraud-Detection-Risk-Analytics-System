@@ -1,9 +1,4 @@
-Below is a **clean, concise, and professional README.md** tailored for your small project.
-You can copy-paste this directly into your GitHub repository.
-
----
-
-# **💳 Fraud Detection & Power BI Dashboard Project**
+💳 Fraud Detection & Power BI Dashboard Project**
 
 This project demonstrates a complete mini–data analytics workflow combining **Python-based fraud detection**, **exploratory data analysis**, and a **Power BI visualization dashboard**. It highlights practical skills in **data cleaning, machine learning, and interactive reporting**.
 
